@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="midTerm/midTerm.csproj" />
   <Project Path="preMid/preMid.csproj" />
 </Solution>
