@@ -9,6 +9,8 @@ This repo is a collection of my C# console activities for **Pre-Midterm** and **
 - Run: `git clone https://github.com/dvlcbm-OnIG/csharpSchool.git`
 - Move into the repo: `cd SchoolRelated`
 
+## What You Will Practice
+
 Everything here is practice-focused:
 - user input and output
 - conversions (`Convert.ToInt32`, `Convert.ToDouble`, etc.)
