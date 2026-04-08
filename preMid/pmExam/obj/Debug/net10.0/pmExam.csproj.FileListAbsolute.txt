@@ -1,0 +1,15 @@
+D:\vscode\C#\SchoolRelated\preMid\pmExam\bin\Debug\net10.0\pmExam.exe
+D:\vscode\C#\SchoolRelated\preMid\pmExam\bin\Debug\net10.0\pmExam.deps.json
+D:\vscode\C#\SchoolRelated\preMid\pmExam\bin\Debug\net10.0\pmExam.runtimeconfig.json
+D:\vscode\C#\SchoolRelated\preMid\pmExam\bin\Debug\net10.0\pmExam.dll
+D:\vscode\C#\SchoolRelated\preMid\pmExam\bin\Debug\net10.0\pmExam.pdb
+D:\vscode\C#\SchoolRelated\preMid\pmExam\obj\Debug\net10.0\pmExam.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\C#\SchoolRelated\preMid\pmExam\obj\Debug\net10.0\pmExam.AssemblyInfoInputs.cache
+D:\vscode\C#\SchoolRelated\preMid\pmExam\obj\Debug\net10.0\pmExam.AssemblyInfo.cs
+D:\vscode\C#\SchoolRelated\preMid\pmExam\obj\Debug\net10.0\pmExam.csproj.CoreCompileInputs.cache
+D:\vscode\C#\SchoolRelated\preMid\pmExam\obj\Debug\net10.0\pmExam.sourcelink.json
+D:\vscode\C#\SchoolRelated\preMid\pmExam\obj\Debug\net10.0\pmExam.dll
+D:\vscode\C#\SchoolRelated\preMid\pmExam\obj\Debug\net10.0\refint\pmExam.dll
+D:\vscode\C#\SchoolRelated\preMid\pmExam\obj\Debug\net10.0\pmExam.pdb
+D:\vscode\C#\SchoolRelated\preMid\pmExam\obj\Debug\net10.0\pmExam.genruntimeconfig.cache
+D:\vscode\C#\SchoolRelated\preMid\pmExam\obj\Debug\net10.0\ref\pmExam.dll
