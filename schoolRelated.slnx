@@ -1,6 +1,8 @@
 <Solution>
   <Folder Name="/midTerm/">
     <Project Path="midTerm/mtExam/mtExam.csproj" />
+    <Project Path="midTerm/quiz1/quiz1.csproj" />
+    <Project Path="midTerm/quiz2/quiz2.csproj" />
   </Folder>
   <Folder Name="/preMid/">
     <Project Path="preMid/pmExam/pmExam.csproj" />
