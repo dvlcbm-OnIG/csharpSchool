@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vscode\\C#\\SchoolRelated\\preMid\\preMid.csproj": {}
+    "D:\\vscode\\C#\\SchoolRelated\\midTerm\\mtExam\\mtExam.csproj": {}
   },
   "projects": {
-    "D:\\vscode\\C#\\SchoolRelated\\preMid\\preMid.csproj": {
+    "D:\\vscode\\C#\\SchoolRelated\\midTerm\\mtExam\\mtExam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vscode\\C#\\SchoolRelated\\preMid\\preMid.csproj",
-        "projectName": "preMid",
-        "projectPath": "D:\\vscode\\C#\\SchoolRelated\\preMid\\preMid.csproj",
+        "projectUniqueName": "D:\\vscode\\C#\\SchoolRelated\\midTerm\\mtExam\\mtExam.csproj",
+        "projectName": "mtExam",
+        "projectPath": "D:\\vscode\\C#\\SchoolRelated\\midTerm\\mtExam\\mtExam.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\vscode\\C#\\SchoolRelated\\preMid\\obj\\",
+        "outputPath": "D:\\vscode\\C#\\SchoolRelated\\midTerm\\mtExam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

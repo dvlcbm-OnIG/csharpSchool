@@ -1,4 +1,8 @@
 <Solution>
-  <Project Path="midTerm/midTerm.csproj" />
-  <Project Path="preMid/preMid.csproj" />
+  <Folder Name="/midTerm/">
+    <Project Path="midTerm/mtExam/mtExam.csproj" />
+  </Folder>
+  <Folder Name="/preMid/">
+    <Project Path="preMid/pmExam/pmExam.csproj" />
+  </Folder>
 </Solution>

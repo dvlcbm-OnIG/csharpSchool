@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vscode\\C#\\SchoolRelated\\midTerm\\midTerm.csproj",
-      "projectName": "midTerm",
-      "projectPath": "D:\\vscode\\C#\\SchoolRelated\\midTerm\\midTerm.csproj",
+      "projectUniqueName": "D:\\vscode\\C#\\SchoolRelated\\preMid\\pmExam\\pmExam.csproj",
+      "projectName": "pmExam",
+      "projectPath": "D:\\vscode\\C#\\SchoolRelated\\preMid\\pmExam\\pmExam.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\vscode\\C#\\SchoolRelated\\midTerm\\obj\\",
+      "outputPath": "D:\\vscode\\C#\\SchoolRelated\\preMid\\pmExam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
