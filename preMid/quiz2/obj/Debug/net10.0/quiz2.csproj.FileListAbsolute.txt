@@ -1,0 +1,15 @@
+D:\vscode\C#\SchoolRelated\preMid\quiz2\obj\Debug\net10.0\quiz2.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\C#\SchoolRelated\preMid\quiz2\obj\Debug\net10.0\quiz2.AssemblyInfoInputs.cache
+D:\vscode\C#\SchoolRelated\preMid\quiz2\obj\Debug\net10.0\quiz2.AssemblyInfo.cs
+D:\vscode\C#\SchoolRelated\preMid\quiz2\obj\Debug\net10.0\quiz2.csproj.CoreCompileInputs.cache
+D:\vscode\C#\SchoolRelated\preMid\quiz2\obj\Debug\net10.0\quiz2.sourcelink.json
+D:\vscode\C#\SchoolRelated\preMid\quiz2\obj\Debug\net10.0\quiz2.dll
+D:\vscode\C#\SchoolRelated\preMid\quiz2\obj\Debug\net10.0\refint\quiz2.dll
+D:\vscode\C#\SchoolRelated\preMid\quiz2\obj\Debug\net10.0\quiz2.pdb
+D:\vscode\C#\SchoolRelated\preMid\quiz2\bin\Debug\net10.0\quiz2.exe
+D:\vscode\C#\SchoolRelated\preMid\quiz2\bin\Debug\net10.0\quiz2.deps.json
+D:\vscode\C#\SchoolRelated\preMid\quiz2\bin\Debug\net10.0\quiz2.runtimeconfig.json
+D:\vscode\C#\SchoolRelated\preMid\quiz2\bin\Debug\net10.0\quiz2.dll
+D:\vscode\C#\SchoolRelated\preMid\quiz2\bin\Debug\net10.0\quiz2.pdb
+D:\vscode\C#\SchoolRelated\preMid\quiz2\obj\Debug\net10.0\quiz2.genruntimeconfig.cache
+D:\vscode\C#\SchoolRelated\preMid\quiz2\obj\Debug\net10.0\ref\quiz2.dll

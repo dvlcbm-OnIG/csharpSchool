@@ -1,12 +1,10 @@
-﻿Item #1 the gamer profile
+﻿using System;
 
-using System;
-
-class GamerProfile
+class Program
 {
-    public static void Main(string[] args)
+    static void GamerProfile()
     {
-        Console.Write("Enter your fist name: ");
+        Console.Write("Enter your first name: ");
         string firstName = Console.ReadLine();
 
         Console.Write("Enter your last name: ");
@@ -14,29 +12,13 @@ class GamerProfile
 
         Console.Write("Enter your current level: ");
         int level = Convert.ToInt32(Console.ReadLine());
- 
+
         int nextLevel = level + 1;
 
         Console.WriteLine($"Profile Created: {lastName}, {firstName}. Current Rank: {level}. Get ready for level {nextLevel}!");
-
-
-
-        Console.ReadKey();
     }
-}
 
-
-
-
-
-
-Item #2 the tech support ticket
-
-using System;
-
-class TechSupportTicket
-{
-    public static void Main(string[] args)
+    static void TechSupportTicket()
     {
         Console.Write("Enter your device name: ");
         string device = Console.ReadLine();
@@ -50,22 +32,9 @@ class TechSupportTicket
         string ticketID = brand + year;
 
         Console.WriteLine($"Hello! Your {brand} {device} has been logged. Your support ID is {ticketID} -HELP.");
-
-
-        Console.ReadKey();
     }
-}
 
-
-
-
-Item #3 the smart savings tracker
-
-using System;
-
-class SmartSavingsTracker
-{
-    public static void Main(string[] args)
+    static void SmartSavingsTracker()
     {
         Console.Write("Enter Username: ");
         string userName = Console.ReadLine();
@@ -79,20 +48,9 @@ class SmartSavingsTracker
         int futureBalance = currentBalance + monthlyGoal;
 
         Console.WriteLine($"User: {userName} Current Balance: ${currentBalance}. If you hit your goal, your new balance will be ${futureBalance}!");
-
-
-        Console.ReadKey();
     }
-}
 
-
-Item #4 the superhero identity
-
-using System;
-
-class SuperHeroIdentity
-{
-    public static void Main(string[] args)
+    static void SuperHeroIdentity()
     {
         Console.Write("Enter your real name: ");
         string realName = Console.ReadLine();
@@ -106,21 +64,9 @@ class SuperHeroIdentity
         int energyUnits = powerLevel * 10;
 
         Console.WriteLine($"Identity Confirmed: {realName} is secretly {heroName}! Energy Output: {energyUnits} Tera-watts.");
-
-
-        Console.ReadKey();
     }
-}
 
-
-
-Item #5 the rpg inventory check
-
-using System;
-
-class RpgInventoryCheck
-{
-    public static void Main(string[] args)
+    static void RpgInventoryCheck()
     {
         Console.Write("Enter character name: ");
         string characterName = Console.ReadLine();
@@ -128,15 +74,49 @@ class RpgInventoryCheck
         Console.Write("Enter item name: ");
         string itemName = Console.ReadLine();
 
-        Console.Write("Enter curent item amount: ");
+        Console.Write("Enter current item amount: ");
         int currentAmount = Convert.ToInt32(Console.ReadLine());
 
         int newAmount = currentAmount + 5;
 
         Console.WriteLine($"{characterName}, you found a chest! You now have {newAmount} {itemName}. Keep going!");
+    }
+
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Choose a program to run:");
+        Console.WriteLine("1 - Gamer Profile");
+        Console.WriteLine("2 - Tech Support Ticket");
+        Console.WriteLine("3 - Smart Savings Tracker");
+        Console.WriteLine("4 - Superhero Identity");
+        Console.WriteLine("5 - RPG Inventory Check");
+        Console.Write("Enter choice: ");
+
+        int choice = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine();
+
+        switch (choice)
+        {
+            case 1:
+                GamerProfile();
+                break;
+            case 2:
+                TechSupportTicket();
+                break;
+            case 3:
+                SmartSavingsTracker();
+                break;
+            case 4:
+                SuperHeroIdentity();
+                break;
+            case 5:
+                RpgInventoryCheck();
+                break;
+            default:
+                Console.WriteLine("Invalid choice.");
+                break;
+        }
 
         Console.ReadKey();
     }
 }
-
-

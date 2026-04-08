@@ -1,0 +1,15 @@
+D:\vscode\C#\SchoolRelated\midTerm\quiz1\bin\Debug\net10.0\quiz1.exe
+D:\vscode\C#\SchoolRelated\midTerm\quiz1\bin\Debug\net10.0\quiz1.deps.json
+D:\vscode\C#\SchoolRelated\midTerm\quiz1\bin\Debug\net10.0\quiz1.runtimeconfig.json
+D:\vscode\C#\SchoolRelated\midTerm\quiz1\bin\Debug\net10.0\quiz1.dll
+D:\vscode\C#\SchoolRelated\midTerm\quiz1\bin\Debug\net10.0\quiz1.pdb
+D:\vscode\C#\SchoolRelated\midTerm\quiz1\obj\Debug\net10.0\quiz1.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\C#\SchoolRelated\midTerm\quiz1\obj\Debug\net10.0\quiz1.AssemblyInfoInputs.cache
+D:\vscode\C#\SchoolRelated\midTerm\quiz1\obj\Debug\net10.0\quiz1.AssemblyInfo.cs
+D:\vscode\C#\SchoolRelated\midTerm\quiz1\obj\Debug\net10.0\quiz1.csproj.CoreCompileInputs.cache
+D:\vscode\C#\SchoolRelated\midTerm\quiz1\obj\Debug\net10.0\quiz1.sourcelink.json
+D:\vscode\C#\SchoolRelated\midTerm\quiz1\obj\Debug\net10.0\quiz1.dll
+D:\vscode\C#\SchoolRelated\midTerm\quiz1\obj\Debug\net10.0\refint\quiz1.dll
+D:\vscode\C#\SchoolRelated\midTerm\quiz1\obj\Debug\net10.0\quiz1.pdb
+D:\vscode\C#\SchoolRelated\midTerm\quiz1\obj\Debug\net10.0\quiz1.genruntimeconfig.cache
+D:\vscode\C#\SchoolRelated\midTerm\quiz1\obj\Debug\net10.0\ref\quiz1.dll
