@@ -6,5 +6,7 @@
   </Folder>
   <Folder Name="/preMid/">
     <Project Path="preMid/pmExam/pmExam.csproj" />
+    <Project Path="preMid/quiz1/quiz1.csproj" />
+    <Project Path="preMid/quiz2/quiz2.csproj" />
   </Folder>
 </Solution>
