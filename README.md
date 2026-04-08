@@ -2,6 +2,13 @@
 
 This repo is a collection of my C# console activities for **Pre-Midterm** and **Midterm**.
 
+## Clone This Repo (Start Here)
+
+- Open **Visual Studio / VS Code** first.
+- Open the built-in terminal there (do not use an external terminal).
+- Run: `git clone https://github.com/dvlcbm-OnIG/csharpSchool.git`
+- Move into the repo: `cd SchoolRelated`
+
 Everything here is practice-focused:
 - user input and output
 - conversions (`Convert.ToInt32`, `Convert.ToDouble`, etc.)
