@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\preMid",
+    "\\midTerm",
+    "\\midTerm\\mylesson1",
+    "\\midTerm\\quiz2",
     "\\preMid\\quiz1"
   ],
+  "SelectedNode": "\\midTerm\\mylesson1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

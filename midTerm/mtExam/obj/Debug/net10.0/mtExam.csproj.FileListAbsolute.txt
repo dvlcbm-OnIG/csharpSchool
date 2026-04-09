@@ -1,0 +1,15 @@
+D:\vscode\C#\SchoolRelated\midTerm\mtExam\bin\Debug\net10.0\mtExam.exe
+D:\vscode\C#\SchoolRelated\midTerm\mtExam\bin\Debug\net10.0\mtExam.deps.json
+D:\vscode\C#\SchoolRelated\midTerm\mtExam\bin\Debug\net10.0\mtExam.runtimeconfig.json
+D:\vscode\C#\SchoolRelated\midTerm\mtExam\bin\Debug\net10.0\mtExam.dll
+D:\vscode\C#\SchoolRelated\midTerm\mtExam\bin\Debug\net10.0\mtExam.pdb
+D:\vscode\C#\SchoolRelated\midTerm\mtExam\obj\Debug\net10.0\mtExam.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\C#\SchoolRelated\midTerm\mtExam\obj\Debug\net10.0\mtExam.AssemblyInfoInputs.cache
+D:\vscode\C#\SchoolRelated\midTerm\mtExam\obj\Debug\net10.0\mtExam.AssemblyInfo.cs
+D:\vscode\C#\SchoolRelated\midTerm\mtExam\obj\Debug\net10.0\mtExam.csproj.CoreCompileInputs.cache
+D:\vscode\C#\SchoolRelated\midTerm\mtExam\obj\Debug\net10.0\mtExam.sourcelink.json
+D:\vscode\C#\SchoolRelated\midTerm\mtExam\obj\Debug\net10.0\mtExam.dll
+D:\vscode\C#\SchoolRelated\midTerm\mtExam\obj\Debug\net10.0\refint\mtExam.dll
+D:\vscode\C#\SchoolRelated\midTerm\mtExam\obj\Debug\net10.0\mtExam.pdb
+D:\vscode\C#\SchoolRelated\midTerm\mtExam\obj\Debug\net10.0\mtExam.genruntimeconfig.cache
+D:\vscode\C#\SchoolRelated\midTerm\mtExam\obj\Debug\net10.0\ref\mtExam.dll

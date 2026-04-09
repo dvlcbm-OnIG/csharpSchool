@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mtExam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34e42114c2a3a2b72f320f8d799d143d1b02c628")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+590a87381c6b0bc746ae4d4ddd9ed5f6c96a56ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("mtExam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mtExam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

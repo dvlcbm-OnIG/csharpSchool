@@ -1,0 +1,15 @@
+D:\vscode\C#\SchoolRelated\midTerm\mylesson1\bin\Debug\net10.0\mylesson1.exe
+D:\vscode\C#\SchoolRelated\midTerm\mylesson1\bin\Debug\net10.0\mylesson1.deps.json
+D:\vscode\C#\SchoolRelated\midTerm\mylesson1\bin\Debug\net10.0\mylesson1.runtimeconfig.json
+D:\vscode\C#\SchoolRelated\midTerm\mylesson1\bin\Debug\net10.0\mylesson1.dll
+D:\vscode\C#\SchoolRelated\midTerm\mylesson1\bin\Debug\net10.0\mylesson1.pdb
+D:\vscode\C#\SchoolRelated\midTerm\mylesson1\obj\Debug\net10.0\mylesson1.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\C#\SchoolRelated\midTerm\mylesson1\obj\Debug\net10.0\mylesson1.AssemblyInfoInputs.cache
+D:\vscode\C#\SchoolRelated\midTerm\mylesson1\obj\Debug\net10.0\mylesson1.AssemblyInfo.cs
+D:\vscode\C#\SchoolRelated\midTerm\mylesson1\obj\Debug\net10.0\mylesson1.csproj.CoreCompileInputs.cache
+D:\vscode\C#\SchoolRelated\midTerm\mylesson1\obj\Debug\net10.0\mylesson1.sourcelink.json
+D:\vscode\C#\SchoolRelated\midTerm\mylesson1\obj\Debug\net10.0\mylesson1.dll
+D:\vscode\C#\SchoolRelated\midTerm\mylesson1\obj\Debug\net10.0\refint\mylesson1.dll
+D:\vscode\C#\SchoolRelated\midTerm\mylesson1\obj\Debug\net10.0\mylesson1.pdb
+D:\vscode\C#\SchoolRelated\midTerm\mylesson1\obj\Debug\net10.0\mylesson1.genruntimeconfig.cache
+D:\vscode\C#\SchoolRelated\midTerm\mylesson1\obj\Debug\net10.0\ref\mylesson1.dll
