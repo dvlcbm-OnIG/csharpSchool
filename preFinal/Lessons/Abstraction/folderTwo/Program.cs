@@ -7,15 +7,16 @@ abstract class Payment
     public abstract void Pay(double amount);
 
     // shared method = ready-made code that all child classes can use.
-    public void PrintReceipt(double amount)
+    public void PrintReceipt(double Amount)
     {
-        Console.WriteLine("Paid: " + amount);
+        Console.WriteLine("Paid: " + Amount);
     }
 }
 
 // GCash version of Payment.
 class GCashPayment : Payment
 {
+    // override means GCashPayment gives its own version of Pay.
     public override void Pay(double amount)
     {
         Console.WriteLine("Paying using GCash...");

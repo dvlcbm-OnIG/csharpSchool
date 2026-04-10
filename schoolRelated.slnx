@@ -26,6 +26,11 @@
         <Project Path="preFinal/Lessons/Encapsulation/folderTwo/folderTwo.csproj" />
       </Folder>
 
+      <Folder Name="/preFinal/Lessons/Polymorphism/">
+        <Project Path="preFinal/Lessons/Polymorphism/folderOne/folderOne.csproj" />
+        <Project Path="preFinal/Lessons/Polymorphism/folderTwo/folderTwo.csproj" />
+      </Folder>
+
     </Folder>
 
   </Folder>
