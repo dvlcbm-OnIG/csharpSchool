@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch folderOne",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/preFinal/Lessons/Encapsulation/folderOne/folderOne.csproj"
+    }
+  ]
+}

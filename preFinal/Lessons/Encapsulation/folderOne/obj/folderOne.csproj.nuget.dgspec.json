@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderOne\\folderOne.csproj": {}
+    "d:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderOne\\folderOne.csproj": {}
   },
   "projects": {
-    "D:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderOne\\folderOne.csproj": {
+    "d:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderOne\\folderOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderOne\\folderOne.csproj",
+        "projectUniqueName": "d:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderOne\\folderOne.csproj",
         "projectName": "folderOne",
-        "projectPath": "D:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderOne\\folderOne.csproj",
+        "projectPath": "d:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderOne\\folderOne.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderOne\\obj\\",
+        "outputPath": "d:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderOne\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
