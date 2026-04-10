@@ -1,6 +1,6 @@
 # SchoolRelated
 
-This repo is a collection of my C# console activities for **Pre-Midterm** and **Midterm**.
+This repo is a collection of my C# console activities for **Pre-Midterm**, **Midterm**, and **Pre-Final**.
 
 ## Clone This Repo (Start Here)
 
@@ -16,6 +16,7 @@ Everything here is practice-focused:
 - conversions (`Convert.ToInt32`, `Convert.ToDouble`, etc.)
 - `if/else` and `switch`
 - basic OOP (inheritance, overriding, sealed classes)
+- advanced OOP practice (abstraction, encapsulation, polymorphism)
 - simple math/computation exercises
 
 ## Tech Stack
@@ -37,6 +38,17 @@ SchoolRelated/
     mtExam/
     quiz1/
     quiz2/
+  preFinal/
+    Lessons/
+      Abstraction/
+        folderOne/
+        folderTwo/
+      Encapsulation/
+        folderOne/
+        folderTwo/
+      Polymorphism/
+        folderOne/
+        folderTwo/
 ```
 
 ## What Each Project Does
@@ -117,6 +129,38 @@ Starter project right now (`Hello, World!`).
 Main focus:
 - project placeholder for midterm exam work
 
+### preFinal/Lessons/Abstraction/folderOne and folderTwo
+
+Practice projects focused on abstraction using:
+- abstract classes
+- abstract methods
+- method overriding with required implementation in child classes
+
+Main focus:
+- defining a shared contract in a parent class
+- implementing required behavior in child classes
+
+### preFinal/Lessons/Encapsulation/folderOne and folderTwo
+
+Practice projects focused on encapsulation using:
+- private fields
+- setter methods
+- getter methods
+
+Main focus:
+- data hiding
+- controlled access to class data
+
+### preFinal/Lessons/Polymorphism/folderOne and folderTwo
+
+Practice projects focused on polymorphism using:
+- method overloading (same method name, different parameters)
+- method overriding (`virtual` + `override`)
+
+Main focus:
+- one interface, multiple behaviors
+- runtime behavior based on actual object type
+
 ## How To Run
 
 ### Option 1: From VS Code
@@ -134,12 +178,18 @@ dotnet run --project preMid/pmExam/pmExam.csproj
 dotnet run --project midTerm/quiz1/quiz1.csproj
 dotnet run --project midTerm/quiz2/quiz2.csproj
 dotnet run --project midTerm/mtExam/mtExam.csproj
+dotnet run --project preFinal/Lessons/Abstraction/folderOne/folderOne.csproj
+dotnet run --project preFinal/Lessons/Abstraction/folderTwo/folderTwo.csproj
+dotnet run --project preFinal/Lessons/Encapsulation/folderOne/folderOne.csproj
+dotnet run --project preFinal/Lessons/Encapsulation/folderTwo/folderTwo.csproj
+dotnet run --project preFinal/Lessons/Polymorphism/folderOne/folderOne.csproj
+dotnet run --project preFinal/Lessons/Polymorphism/folderTwo/folderTwo.csproj
 ```
 
 ## Notes
 
 - Most projects end with `Console.ReadKey()` so the output stays visible.
-- The solution file is `schoolRelated.slnx` and includes all 6 projects.
+- The solution file is `schoolRelated.slnx` and includes all current lesson/exam projects.
 - There are also item-specific instructions in:
   - `preMid/quiz1/readme.md`
   - `preMid/quiz2/readme.md`
