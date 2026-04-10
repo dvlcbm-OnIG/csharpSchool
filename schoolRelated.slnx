@@ -1,13 +1,33 @@
 <Solution>
+  <Folder Name="/preFinal/Lessons/" />
+  <Folder Name="/preMid/">
+    <Project Path="preMid/pmExam/pmExam.csproj" />
+    <Project Path="preMid/quiz1/quiz1.csproj" />
+    <Project Path="preMid/quiz2/quiz2.csproj" />
+  </Folder>
+
   <Folder Name="/midTerm/">
     <Project Path="midTerm/mtExam/mtExam.csproj" />
     <Project Path="midTerm/mylesson1/mylesson1.csproj" />
     <Project Path="midTerm/quiz1/quiz1.csproj" />
     <Project Path="midTerm/quiz2/quiz2.csproj" />
   </Folder>
-  <Folder Name="/preMid/">
-    <Project Path="preMid/pmExam/pmExam.csproj" />
-    <Project Path="preMid/quiz1/quiz1.csproj" />
-    <Project Path="preMid/quiz2/quiz2.csproj" />
+
+  <Folder Name="/preFinal/">
+    <Folder Name="/preFinal/Lessons/">
+
+      <Folder Name="/preFinal/Lessons/Abstraction/">
+        <Project Path="preFinal/Lessons/Abstraction/folderOne/folderOne.csproj" />
+        <Project Path="preFinal/Lessons/Abstraction/folderTwo/folderTwo.csproj" />
+      </Folder>
+
+      <Folder Name="/preFinal/Lessons/Encapsulation/">
+        <Project Path="preFinal/Lessons/Encapsulation/folderOne/folderOne.csproj" />
+        <Project Path="preFinal/Lessons/Encapsulation/folderTwo/folderTwo.csproj" />
+      </Folder>
+
+    </Folder>
+
   </Folder>
+
 </Solution>

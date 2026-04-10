@@ -1,0 +1,15 @@
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderOne\bin\Debug\net10.0\folderOne.exe
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderOne\bin\Debug\net10.0\folderOne.deps.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderOne\bin\Debug\net10.0\folderOne.runtimeconfig.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderOne\bin\Debug\net10.0\folderOne.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderOne\bin\Debug\net10.0\folderOne.pdb
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderOne\obj\Debug\net10.0\folderOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderOne\obj\Debug\net10.0\folderOne.AssemblyInfoInputs.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderOne\obj\Debug\net10.0\folderOne.AssemblyInfo.cs
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderOne\obj\Debug\net10.0\folderOne.csproj.CoreCompileInputs.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderOne\obj\Debug\net10.0\folderOne.sourcelink.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderOne\obj\Debug\net10.0\folderOne.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderOne\obj\Debug\net10.0\refint\folderOne.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderOne\obj\Debug\net10.0\folderOne.pdb
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderOne\obj\Debug\net10.0\folderOne.genruntimeconfig.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderOne\obj\Debug\net10.0\ref\folderOne.dll

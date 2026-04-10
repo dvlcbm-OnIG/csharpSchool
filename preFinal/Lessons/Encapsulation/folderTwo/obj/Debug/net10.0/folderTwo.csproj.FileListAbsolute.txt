@@ -1,0 +1,15 @@
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderTwo\bin\Debug\net10.0\folderTwo.exe
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderTwo\bin\Debug\net10.0\folderTwo.deps.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderTwo\bin\Debug\net10.0\folderTwo.runtimeconfig.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderTwo\bin\Debug\net10.0\folderTwo.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderTwo\bin\Debug\net10.0\folderTwo.pdb
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderTwo\obj\Debug\net10.0\folderTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderTwo\obj\Debug\net10.0\folderTwo.AssemblyInfoInputs.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderTwo\obj\Debug\net10.0\folderTwo.AssemblyInfo.cs
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderTwo\obj\Debug\net10.0\folderTwo.csproj.CoreCompileInputs.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderTwo\obj\Debug\net10.0\folderTwo.sourcelink.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderTwo\obj\Debug\net10.0\folderTwo.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderTwo\obj\Debug\net10.0\refint\folderTwo.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderTwo\obj\Debug\net10.0\folderTwo.pdb
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderTwo\obj\Debug\net10.0\folderTwo.genruntimeconfig.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderTwo\obj\Debug\net10.0\ref\folderTwo.dll
