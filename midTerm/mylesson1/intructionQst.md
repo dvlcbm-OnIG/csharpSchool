@@ -1,4 +1,5 @@
 1. Student Grade System (10 points)
+
 Create a class named Student with fields name and course.
 Create a method DisplayStudent() to print the details.
 Create a derived class GradedStudent with fields midterm and finalExam.
@@ -9,7 +10,12 @@ Instantiate the object inside Main() and display all details including the avera
 
 
 
+
+
+
+
 2. Employee Bonus System (10 points)
+
 Create a class named Worker with fields name and basicSalary.
  Create a method DisplayWorker() to print details.
 Create a derived class BonusEmployee with field bonusRate.
@@ -21,7 +27,10 @@ Instantiate the object in Main() and display the result.
 
 
 
+
+
 3. Library Fine System (10 points)
+
 Create a class named LibraryUser with field userName.
  Create a method DisplayUser() to print details.
 Create a derived class Borrower with fields daysLate and finePerDay.

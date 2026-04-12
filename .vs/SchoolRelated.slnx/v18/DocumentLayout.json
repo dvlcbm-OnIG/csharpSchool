@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\vscode\\C#\\SchoolRelated\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vscode\\C#\\SchoolRelated\\midTerm\\mylesson1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midTerm\\mylesson1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderTwo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:preFinal\\Lessons\\Encapsulation\\folderTwo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:preFinal\\Lessons\\Abstraction\\folderOne\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vscode\\C#\\SchoolRelated\\midTerm\\mylesson1\\intructionQst.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midTerm\\mylesson1\\intructionQst.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vscode\\C#\\SchoolRelated\\midTerm\\mtExam\\mtExam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midTerm\\mtExam\\mtExam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vscode\\C#\\SchoolRelated\\midTerm\\mylesson1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:midTerm\\mylesson1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderTwo\\Program.cs",
               "RelativeDocumentMoniker": "preFinal\\Lessons\\Encapsulation\\folderTwo\\Program.cs",
@@ -55,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderOne\\Program.cs",
               "RelativeDocumentMoniker": "preFinal\\Lessons\\Encapsulation\\folderOne\\Program.cs",
@@ -63,12 +59,11 @@
               "RelativeToolTip": "preFinal\\Lessons\\Encapsulation\\folderOne\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T09:02:56.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T09:02:56.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Abstraction\\folderOne\\Program.cs",
               "RelativeDocumentMoniker": "preFinal\\Lessons\\Abstraction\\folderOne\\Program.cs",
@@ -77,18 +72,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T09:01:48.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "intructionQst.md",
-              "DocumentMoniker": "D:\\vscode\\C#\\SchoolRelated\\midTerm\\mylesson1\\intructionQst.md",
-              "RelativeDocumentMoniker": "midTerm\\mylesson1\\intructionQst.md",
-              "ToolTip": "D:\\vscode\\C#\\SchoolRelated\\midTerm\\mylesson1\\intructionQst.md",
-              "RelativeToolTip": "midTerm\\mylesson1\\intructionQst.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-04-10T08:25:14.392Z"
             },
             {
               "$type": "Document",
@@ -104,15 +87,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\vscode\\C#\\SchoolRelated\\midTerm\\mylesson1\\Program.cs",
               "RelativeDocumentMoniker": "midTerm\\mylesson1\\Program.cs",
               "ToolTip": "D:\\vscode\\C#\\SchoolRelated\\midTerm\\mylesson1\\Program.cs",
               "RelativeToolTip": "midTerm\\mylesson1\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAcwD0AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T14:20:20.263Z"
+              "WhenOpened": "2026-04-09T14:20:20.263Z",
+              "EditorCaption": ""
             }
           ]
         }
