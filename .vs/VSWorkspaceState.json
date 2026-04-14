@@ -2,12 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\midTerm",
-    "\\midTerm\\mylesson1",
-    "\\preFinal\\Lessons",
-    "\\preFinal\\Lessons\\Encapsulation",
-    "\\preFinal\\Lessons\\Encapsulation\\folderOne",
-    "\\preFinal\\Lessons\\Encapsulation\\folderTwo"
+    "\\midTerm\\mtExam",
+    "\\midTerm\\mylesson1"
   ],
-  "SelectedNode": "\\midTerm\\mylesson1\\Program.cs",
+  "SelectedNode": "\\midTerm\\mtExam\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
