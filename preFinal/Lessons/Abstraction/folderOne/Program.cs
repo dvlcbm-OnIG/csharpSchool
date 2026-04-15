@@ -3,11 +3,11 @@
 // "abstract" = cannot create this directly
 abstract class Animal
 {
-    // abstract method = a rule that child classes must follow.
-    public abstract void MakeSound();
+    
+    public abstract void MakeSound(); // abstract method = a rule that child classes must follow.
 
-    // normal method = already has its own code and can be used right away.
-    public void Sleep()
+    
+    public void Sleep() // normal method = already has its own code and can be used right away.
     {
         Console.WriteLine("Animal is sleeping");
     }
@@ -16,8 +16,8 @@ abstract class Animal
 // Dog inherits Animal
 class Dog : Animal
 {
-    // override means this method replaces the parent class version with Dog's own sound.
-    public override void MakeSound()
+    
+    public override void MakeSound()// override means this method replaces the parent class version with Dog's own sound.
     {
         Console.WriteLine("Dog says: Bark");
     }
@@ -34,7 +34,7 @@ class Program
         myDog.MakeSound();
         myDog.Sleep();
 
-
+        Console.ReadKey();
         //output:   Dog says: Bark
         //          Animal is sleeping
 
