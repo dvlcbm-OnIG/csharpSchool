@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pmExam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0c712ff4e346c80818b4f51b5fee6d062777e55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8931c09d0f6bf6c98673bd5084e55ec8951a956")]
 [assembly: System.Reflection.AssemblyProductAttribute("pmExam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pmExam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

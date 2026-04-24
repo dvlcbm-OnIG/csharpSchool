@@ -1,0 +1,15 @@
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFour\obj\Debug\net10.0\folderFour.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFour\obj\Debug\net10.0\folderFour.AssemblyInfoInputs.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFour\obj\Debug\net10.0\folderFour.AssemblyInfo.cs
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFour\obj\Debug\net10.0\folderFour.csproj.CoreCompileInputs.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFour\obj\Debug\net10.0\folderFour.sourcelink.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFour\bin\Debug\net10.0\folderFour.exe
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFour\bin\Debug\net10.0\folderFour.deps.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFour\bin\Debug\net10.0\folderFour.runtimeconfig.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFour\bin\Debug\net10.0\folderFour.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFour\bin\Debug\net10.0\folderFour.pdb
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFour\obj\Debug\net10.0\folderFour.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFour\obj\Debug\net10.0\refint\folderFour.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFour\obj\Debug\net10.0\folderFour.pdb
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFour\obj\Debug\net10.0\folderFour.genruntimeconfig.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFour\obj\Debug\net10.0\ref\folderFour.dll

@@ -1,16 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\midTerm\\mylesson1",
     "\\preFinal",
     "\\preFinal\\Lessons",
-    "\\preFinal\\Lessons\\Abstraction\\folderOne",
     "\\preFinal\\Lessons\\Encapsulation",
-    "\\preFinal\\Lessons\\Encapsulation\\folderOne",
-    "\\preFinal\\Lessons\\Encapsulation\\folderTwo",
-    "\\preFinal\\Lessons\\Polymorphism\\folderOne",
-    "\\preFinal\\Lessons\\Polymorphism\\folderTwo"
+    "\\preFinal\\Lessons\\Encapsulation\\folderFour"
   ],
-  "SelectedNode": "\\preFinal\\Lessons\\Encapsulation\\folderTwo\\Program.cs",
+  "SelectedNode": "\\preFinal\\Lessons\\Encapsulation\\folderFour\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
