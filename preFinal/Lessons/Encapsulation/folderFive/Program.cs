@@ -7,14 +7,14 @@ public class Person1
     private string _name;
     private int _age;
 
-    // Stores both values through one controlled method.
+    //setters
     public void Setter(string name, int age)
     {
         _name = name;
         _age = age;
     }
 
-    // Read access stays private to the class fields.
+    //getters
     public string GetName() => _name;
     public int GetAge() => _age;
 }
