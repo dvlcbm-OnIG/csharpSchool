@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("folderOne")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67cbd5d376e51f0538b83bfce28fc8aff8f0fddd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ca991f591c6949b99345c3eefec4d1371b78be6")]
 [assembly: System.Reflection.AssemblyProductAttribute("folderOne")]
 [assembly: System.Reflection.AssemblyTitleAttribute("folderOne")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

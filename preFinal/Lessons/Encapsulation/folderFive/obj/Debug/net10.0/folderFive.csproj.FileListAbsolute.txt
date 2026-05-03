@@ -1,0 +1,15 @@
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFive\obj\Debug\net10.0\folderFive.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFive\obj\Debug\net10.0\folderFive.AssemblyInfoInputs.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFive\obj\Debug\net10.0\folderFive.AssemblyInfo.cs
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFive\obj\Debug\net10.0\folderFive.csproj.CoreCompileInputs.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFive\obj\Debug\net10.0\folderFive.sourcelink.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFive\bin\Debug\net10.0\folderFive.exe
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFive\bin\Debug\net10.0\folderFive.deps.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFive\bin\Debug\net10.0\folderFive.runtimeconfig.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFive\bin\Debug\net10.0\folderFive.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFive\bin\Debug\net10.0\folderFive.pdb
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFive\obj\Debug\net10.0\folderFive.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFive\obj\Debug\net10.0\refint\folderFive.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFive\obj\Debug\net10.0\folderFive.pdb
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFive\obj\Debug\net10.0\folderFive.genruntimeconfig.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderFive\obj\Debug\net10.0\ref\folderFive.dll
