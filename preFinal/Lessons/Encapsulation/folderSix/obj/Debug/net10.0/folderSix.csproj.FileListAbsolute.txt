@@ -1,0 +1,15 @@
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSix\bin\Debug\net10.0\folderSix.exe
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSix\bin\Debug\net10.0\folderSix.deps.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSix\bin\Debug\net10.0\folderSix.runtimeconfig.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSix\bin\Debug\net10.0\folderSix.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSix\bin\Debug\net10.0\folderSix.pdb
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSix\obj\Debug\net10.0\folderSix.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSix\obj\Debug\net10.0\folderSix.AssemblyInfoInputs.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSix\obj\Debug\net10.0\folderSix.AssemblyInfo.cs
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSix\obj\Debug\net10.0\folderSix.csproj.CoreCompileInputs.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSix\obj\Debug\net10.0\folderSix.sourcelink.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSix\obj\Debug\net10.0\folderSix.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSix\obj\Debug\net10.0\refint\folderSix.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSix\obj\Debug\net10.0\folderSix.pdb
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSix\obj\Debug\net10.0\folderSix.genruntimeconfig.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSix\obj\Debug\net10.0\ref\folderSix.dll
