@@ -2,6 +2,7 @@
   <Folder Name="/preFinal/Lessons/" />
   <Folder Name="/preFinal/Lessons/Encapsulation/">
     <Project Path="preFinal/Lessons/Encapsulation/folderFive/folderFive.csproj" />
+    <Project Path="preFinal/Lessons/Encapsulation/folderSeven/folderSeven.csproj" />
   </Folder>
   <Folder Name="/preMid/">
     <Project Path="preMid/pmExam/pmExam.csproj" />
