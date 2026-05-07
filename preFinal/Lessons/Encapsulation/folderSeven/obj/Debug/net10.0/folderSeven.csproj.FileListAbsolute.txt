@@ -1,0 +1,15 @@
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSeven\bin\Debug\net10.0\folderSeven.exe
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSeven\bin\Debug\net10.0\folderSeven.deps.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSeven\bin\Debug\net10.0\folderSeven.runtimeconfig.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSeven\bin\Debug\net10.0\folderSeven.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSeven\bin\Debug\net10.0\folderSeven.pdb
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSeven\obj\Debug\net10.0\folderSeven.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSeven\obj\Debug\net10.0\folderSeven.AssemblyInfoInputs.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSeven\obj\Debug\net10.0\folderSeven.AssemblyInfo.cs
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSeven\obj\Debug\net10.0\folderSeven.csproj.CoreCompileInputs.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSeven\obj\Debug\net10.0\folderSeven.sourcelink.json
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSeven\obj\Debug\net10.0\folderSeven.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSeven\obj\Debug\net10.0\refint\folderSeven.dll
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSeven\obj\Debug\net10.0\folderSeven.pdb
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSeven\obj\Debug\net10.0\folderSeven.genruntimeconfig.cache
+D:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderSeven\obj\Debug\net10.0\ref\folderSeven.dll

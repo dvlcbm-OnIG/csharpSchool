@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("folderSix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab9837c5d13b432d5079616fa0b6c8fd64bebc44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48ad60b5c80012c8a20c94917239a7015215b1d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("folderSix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("folderSix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

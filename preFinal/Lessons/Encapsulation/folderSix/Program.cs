@@ -82,7 +82,7 @@ public class Price
         get { return _price; }
         set
         {
-            _price = Math.Max(10, value);
+            _price = Math.Max(10, value); // returns the larger value between two numbers.
         }
     }
 }
@@ -198,7 +198,7 @@ public class Program
         p.Code = "1234";
 
         Price pr = new Price();
-        pr.Value = 5;
+        pr.Value = 11;
 
         Score sc = new Score();
         sc.Value = 10;
