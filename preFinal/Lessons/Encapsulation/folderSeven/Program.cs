@@ -62,6 +62,41 @@ public class PriceFloor
         set { _price = Math.Max(10, value); }  // returns the larger value between two numbers.
     }
 }
+
+//6
+public class ScoreIncre
+{
+    private int _score;
+
+    public int Score
+    {
+        get { return _score; }
+        set
+        {
+            if (value == _score + 10)
+            {
+                _score = value;
+            }
+        }
+    }
+}
+
+//7
+public class IdMask
+{
+    private string _id;
+    public string ID
+    {
+        get { return _id.Substring(6);  }
+        set
+        {
+            if (value.Length == 10)
+            {
+                _id = value;
+            }
+        }
+    }
+}
 public class Program
 {
     public static void Main()
@@ -89,6 +124,21 @@ public class Program
         PriceFloor pFloor = new PriceFloor();
         pFloor.Price = 9; //returns 10 coz of mathmax
         Console.WriteLine($"5. {pFloor.Price}");
+
+
+        //6
+        ScoreIncre sIn = new ScoreIncre();
+        sIn.Score = 10;
+
+        Console.WriteLine($"6. {sIn.Score}");
+
+        //7
+        IdMask idM = new IdMask();
+        idM.ID = "1234567890";
+
+        Console.WriteLine($"7. {idM.ID}");
+
+
         Console.ReadKey();
     }
 }
