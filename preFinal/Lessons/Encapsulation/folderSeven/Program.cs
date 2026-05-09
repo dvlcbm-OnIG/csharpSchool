@@ -97,6 +97,60 @@ public class IdMask
         }
     }
 }
+
+//8
+public class LevelClock
+{
+    private int _level;
+    public int Level
+    {
+        get { return _level; }
+        set
+        {
+            if (value >= _level)
+            {
+                _level = value;
+            }
+        }
+    }
+}
+
+//9
+public class PercentClamp
+{
+    private int _percent;
+    public int Percent
+    {
+        get { return _percent; }
+        set
+        {
+            if (value < 0)
+            {
+                _percent = 0;
+            }else if (value > 100){
+                _percent = 100;
+            }else{ _percent = value; }
+        }
+    }
+}
+
+public class TenChar
+{
+    private string _username;
+    public string UserN
+    {
+        get { return _username; }
+        set
+        {
+            if (value.Length == 10)
+            {
+                _username = value; 
+            }
+           
+        }
+    }
+}
+
 public class Program
 {
     public static void Main()
@@ -138,7 +192,25 @@ public class Program
 
         Console.WriteLine($"7. {idM.ID}");
 
+        //8
+        LevelClock lClock = new LevelClock();
+        lClock.Level = 1; // first value assigned
+        lClock.Level = 2; // new value
+        lClock.Level = 1; // still 2. Can't decrease
+        lClock.Level = 3; // new value
 
+        Console.WriteLine($"8. {lClock.Level}");
+        //9
+        PercentClamp pClamp = new PercentClamp();
+        pClamp.Percent = -1;
+
+        Console.WriteLine($"9. {pClamp.Percent}");
+
+        //10
+        TenChar tChar = new TenChar();
+        tChar.UserN = "1234567890";
+
+        Console.WriteLine($"10. {tChar.UserN}");
         Console.ReadKey();
     }
 }

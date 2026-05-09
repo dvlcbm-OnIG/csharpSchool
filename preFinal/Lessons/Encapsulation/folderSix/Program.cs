@@ -207,8 +207,10 @@ public class Program
         id.ID = "1234567890";
 
         Level lv = new Level();
-        lv.Value = 1;
-        lv.Value = 0;
+        lv.Value = 1; //1
+        lv.Value = 2; //now it's 2
+        lv.Value = 1; // cannot decrease. Still 2
+        lv.Value = 3; // now it's 3
 
         Percent pc = new Percent();
         pc.Value = 150;
