@@ -5,7 +5,7 @@ using System;
 //1
 public class AgeBracket
 {
-    public int _age;
+    private int _age;
     
     public int AgePro
     {
