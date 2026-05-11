@@ -31,6 +31,7 @@
         <Project Path="preFinal/Lessons/Encapsulation/folderThree/folderThree.csproj" />
         <Project Path="preFinal/Lessons/Encapsulation/folderFour/folderFour.csproj" />
         <Project Path="preFinal/Lessons/Encapsulation/folderSix/folderSix.csproj" />
+        <Project Path="preFinal/Lessons/Encapsulation/folderEight/folderEight.csproj" />
       </Folder>
 
       <Folder Name="/preFinal/Lessons/Polymorphism/">

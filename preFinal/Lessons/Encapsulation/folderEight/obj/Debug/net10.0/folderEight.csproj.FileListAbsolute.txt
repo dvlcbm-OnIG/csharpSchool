@@ -1,0 +1,15 @@
+d:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderEight\bin\Debug\net10.0\folderEight.exe
+d:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderEight\bin\Debug\net10.0\folderEight.deps.json
+d:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderEight\bin\Debug\net10.0\folderEight.runtimeconfig.json
+d:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderEight\bin\Debug\net10.0\folderEight.dll
+d:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderEight\bin\Debug\net10.0\folderEight.pdb
+d:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderEight\obj\Debug\net10.0\folderEight.GeneratedMSBuildEditorConfig.editorconfig
+d:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderEight\obj\Debug\net10.0\folderEight.AssemblyInfoInputs.cache
+d:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderEight\obj\Debug\net10.0\folderEight.AssemblyInfo.cs
+d:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderEight\obj\Debug\net10.0\folderEight.csproj.CoreCompileInputs.cache
+d:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderEight\obj\Debug\net10.0\folderEight.sourcelink.json
+d:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderEight\obj\Debug\net10.0\folderEight.dll
+d:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderEight\obj\Debug\net10.0\refint\folderEight.dll
+d:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderEight\obj\Debug\net10.0\folderEight.pdb
+d:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderEight\obj\Debug\net10.0\folderEight.genruntimeconfig.cache
+d:\vscode\C#\SchoolRelated\preFinal\Lessons\Encapsulation\folderEight\obj\Debug\net10.0\ref\folderEight.dll
