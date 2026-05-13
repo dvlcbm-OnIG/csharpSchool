@@ -208,6 +208,7 @@ public class Program
         IDMask id = new IDMask();
         id.ID = "1234567890";
 
+      
         Level lv = new Level();
         lv.Value = 1; //1
         lv.Value = 2; //now it's 2
