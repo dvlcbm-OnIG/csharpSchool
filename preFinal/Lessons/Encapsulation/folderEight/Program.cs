@@ -1,47 +1,105 @@
-//for testing
+//exam prefinal
 using System;
-using System.Runtime.InteropServices;
+
 //1
-public class Circle
+public class SecuritySystem
 {
-    private double _radius;
-    
-    //constructor
-    public Circle(double r)
+    private string _status;
+
+    public string PowerStatus
     {
-        Radius = r;
-    }
-    //property-1 (modifiable)
-    public double Radius
-    {
-        get { return _radius; }
+        get { return _status; }
         set
         {
-            if (value > 0)
+            if (value == "On")
             {
-                _radius = value;
+                _status = value;
+            }
+            else
+            {
+                _status = "Off";
             }
         }
     }
-    //property-2 (read-only)
-    public double Area
-    {
-        get { return 3.14 * (_radius * _radius); }
 
-        //it becomes read-only because there is no setter
+    public void ShowStatus()
+    {
+        Console.WriteLine("System Status: " + _status);
     }
 }
+
 //2
-public class StepCounter
+public class Store
+{
+    private int _discount;
+
+    public int Discount
+    {
+        get { return _discount; }
+        set
+        {
+            if (value > 50)
+            {
+                _discount = 50;
+            }
+            else
+            {
+                _discount = value;
+            }
+        }
+    }
+
+    public void ShowDiscount()
+    {
+        Console.WriteLine("Discount: " + _discount);
+    }
+}
+
+//3
+public class Gym
+{
+    private int _level;
+
+    public int Level
+    {
+        get { return _level; }
+        set
+        {
+            if (value > 3)
+            {
+                _level = 3;
+            }
+            else if (value < 1)
+            {
+                _level = 1;
+            }
+            else
+            {
+                _level = value;
+            }
+        }
+    }
+
+    public void ShowLevel()
+    {
+        Console.WriteLine("Membership Level: " + _level);
+    }
+}
+
+//4
+public class Tracker
 {
     private int _steps;
-    public StepCounter()
+
+    //constructor
+    public Tracker(int steps)
     {
-        _steps = 0;
+        _steps = steps;
     }
+
     public int Steps
     {
-       get { return _steps;  }
+        get { return _steps; }
         set
         {
             if (value > _steps)
@@ -50,80 +108,88 @@ public class StepCounter
             }
         }
     }
-    public double DistanceInKm
+
+    public void ShowSteps()
     {
-        get { return _steps * 0.0008; }
+        Console.WriteLine("Steps: " + _steps);
     }
 }
 
-//3
-public class ProductPrice
+//5
+public class Safe
 {
-    private double _price;
-    public ProductPrice (double p)
+    private int _pin;
+
+    //constructor
+    public Safe(int pin)
     {
-        Price = p;
+        _pin = pin;
     }
-    public double Price
+
+    public int Pin
     {
-        get { return _price;  }
+        get { return _pin; }
         set
         {
-            if (value >=0)
+            if (value == 1234)
             {
-                _price = value;
+                _pin = value;
             }
         }
     }
-    public double TaxedPrice
+
+    public void ShowPin()
     {
-        get { return _price * 1.12;  }
+        Console.WriteLine("PIN: " + _pin);
     }
 }
-//4
-public class Employee
-{
-    private string _name;
-    public Employee(string name)
-    {
-        Name = name;
-    }
-    public string Name
-    {
-        get { return _name; }
-        set
-        {
-            if (value == null || value == "")
-            {
-                _name = "Unknown";
-            }
-            else
-            {
-                _name = value;
-            }
-        }
-    }
-}
+
 public class Program
 {
     public static void Main()
     {
         //1
-    Circle circ = new Circle(10.2);//can only put value inside object when it has constructor
+        SecuritySystem sec = new SecuritySystem();
 
-        Console.WriteLine(circ.Radius);
+        sec.PowerStatus = "On";
+        sec.ShowStatus();
+
+        sec.PowerStatus = "Open";
+        sec.ShowStatus();
+
         //2
-        StepCounter sCon = new StepCounter();
+        Store st = new Store();
 
-        sCon.Steps = 10;
-        Console.WriteLine($"{sCon.Steps}, {sCon.DistanceInKm}");
+        st.Discount = 70;
+        st.ShowDiscount();
+
         //3
-        ProductPrice pPrice = new ProductPrice(12);
-        Console.WriteLine(pPrice.Price + ", " + pPrice.TaxedPrice);
+        Gym gym = new Gym();
+
+        gym.Level = 5;
+        gym.ShowLevel();
+
+        gym.Level = 0;
+        gym.ShowLevel();
 
         //4
-        Employee emp = new Employee("");
-        Console.WriteLine(emp.Name);
+        Tracker tr = new Tracker(100);
+
+        tr.Steps = 120;
+        tr.ShowSteps();
+
+        tr.Steps = 90;
+        tr.ShowSteps();
+
+        //5
+        Safe sf = new Safe(1111);
+
+        sf.Pin = 1234;
+        sf.ShowPin();
+
+        sf.Pin = 9999;
+        sf.ShowPin();
+
         Console.ReadKey();
-    } 
+    }
 }
