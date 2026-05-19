@@ -5,7 +5,6 @@ using System;
 public class SecuritySystem
 {
     private string _status;
-
     public string PowerStatus
     {
         get { return _status; }
@@ -21,7 +20,6 @@ public class SecuritySystem
             }
         }
     }
-
     public void ShowStatus()
     {
         Console.WriteLine("System Status: " + _status);
@@ -32,7 +30,6 @@ public class SecuritySystem
 public class Store
 {
     private int _discount;
-
     public int Discount
     {
         get { return _discount; }
@@ -48,7 +45,6 @@ public class Store
             }
         }
     }
-
     public void ShowDiscount()
     {
         Console.WriteLine("Discount: " + _discount);
@@ -59,7 +55,6 @@ public class Store
 public class Gym
 {
     private int _level;
-
     public int Level
     {
         get { return _level; }
@@ -90,8 +85,6 @@ public class Gym
 public class Tracker
 {
     private int _steps;
-
-    //constructor
     public Tracker(int steps)
     {
         _steps = steps;
@@ -119,13 +112,10 @@ public class Tracker
 public class Safe
 {
     private int _pin;
-
-    //constructor
     public Safe(int pin)
     {
         _pin = pin;
     }
-
     public int Pin
     {
         get { return _pin; }
@@ -137,7 +127,6 @@ public class Safe
             }
         }
     }
-
     public void ShowPin()
     {
         Console.WriteLine("PIN: " + _pin);
@@ -150,43 +139,34 @@ public class Program
     {
         //1
         SecuritySystem sec = new SecuritySystem();
-
         sec.PowerStatus = "On";
         sec.ShowStatus();
-
         sec.PowerStatus = "Open";
         sec.ShowStatus();
 
         //2
         Store st = new Store();
-
         st.Discount = 70;
         st.ShowDiscount();
 
         //3
         Gym gym = new Gym();
-
         gym.Level = 5;
         gym.ShowLevel();
-
         gym.Level = 0;
         gym.ShowLevel();
 
         //4
         Tracker tr = new Tracker(100);
-
         tr.Steps = 120;
         tr.ShowSteps();
-
         tr.Steps = 90;
         tr.ShowSteps();
 
         //5
         Safe sf = new Safe(1111);
-
         sf.Pin = 1234;
         sf.ShowPin();
-
         sf.Pin = 9999;
         sf.ShowPin();
 
