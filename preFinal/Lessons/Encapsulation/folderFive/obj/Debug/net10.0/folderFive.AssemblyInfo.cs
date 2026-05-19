@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("folderFive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aac49e4e9a6014439dc00c9468d005b352b5d6f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+537ffbdb0f8c9282495216c396f9012f21aed15e")]
 [assembly: System.Reflection.AssemblyProductAttribute("folderFive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("folderFive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
