@@ -74,7 +74,6 @@ public class Gym
             }
         }
     }
-
     public void ShowLevel()
     {
         Console.WriteLine("Membership Level: " + _level);
@@ -87,7 +86,7 @@ public class Tracker
     private int _steps;
     public Tracker(int steps)
     {
-        _steps = steps;
+        Steps = steps;
     }
 
     public int Steps
@@ -114,8 +113,9 @@ public class Safe
     private int _pin;
     public Safe(int pin)
     {
-        _pin = pin;
+        Pin = pin;
     }
+
     public int Pin
     {
         get { return _pin; }
@@ -127,6 +127,7 @@ public class Safe
             }
         }
     }
+
     public void ShowPin()
     {
         Console.WriteLine("PIN: " + _pin);
@@ -164,10 +165,7 @@ public class Program
         tr.ShowSteps();
 
         //5
-        Safe sf = new Safe(1111);
-        sf.Pin = 1234;
-        sf.ShowPin();
-        sf.Pin = 9999;
+        Safe sf = new Safe(1234);
         sf.ShowPin();
 
         Console.ReadKey();
