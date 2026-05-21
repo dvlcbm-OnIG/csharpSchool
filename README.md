@@ -40,10 +40,13 @@ SchoolRelated/
     quiz2/
   preFinal/
     Lessons/
-      Abstraction/
+      Encapsulation/
         folderOne/
         folderTwo/
-      Encapsulation/
+      
+  Finals/
+    Lessons/
+      Abstraction/
         folderOne/
         folderTwo/
       Polymorphism/
@@ -129,7 +132,7 @@ Starter project right now (`Hello, World!`).
 Main focus:
 - project placeholder for midterm exam work
 
-### preFinal/Lessons/Abstraction/folderOne and folderTwo
+### Finals/Lessons/Abstraction/folderOne and folderTwo
 
 Practice projects focused on abstraction using:
 - abstract classes
@@ -151,7 +154,7 @@ Main focus:
 - data hiding
 - controlled access to class data
 
-### preFinal/Lessons/Polymorphism/folderOne and folderTwo
+### Finals/Lessons/Polymorphism/folderOne and folderTwo
 
 Practice projects focused on polymorphism using:
 - method overloading (same method name, different parameters)
@@ -178,12 +181,12 @@ dotnet run --project preMid/pmExam/pmExam.csproj
 dotnet run --project midTerm/quiz1/quiz1.csproj
 dotnet run --project midTerm/quiz2/quiz2.csproj
 dotnet run --project midTerm/mtExam/mtExam.csproj
-dotnet run --project preFinal/Lessons/Abstraction/folderOne/folderOne.csproj
-dotnet run --project preFinal/Lessons/Abstraction/folderTwo/folderTwo.csproj
+dotnet run --project Finals/Lessons/Abstraction/folderOne/folderOne.csproj
+dotnet run --project Finals/Lessons/Abstraction/folderTwo/folderTwo.csproj
 dotnet run --project preFinal/Lessons/Encapsulation/folderOne/folderOne.csproj
 dotnet run --project preFinal/Lessons/Encapsulation/folderTwo/folderTwo.csproj
-dotnet run --project preFinal/Lessons/Polymorphism/folderOne/folderOne.csproj
-dotnet run --project preFinal/Lessons/Polymorphism/folderTwo/folderTwo.csproj
+dotnet run --project Finals/Lessons/Polymorphism/folderOne/folderOne.csproj
+dotnet run --project Finals/Lessons/Polymorphism/folderTwo/folderTwo.csproj
 ```
 
 ## Notes
