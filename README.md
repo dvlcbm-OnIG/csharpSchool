@@ -1,6 +1,6 @@
 # SchoolRelated
 
-This repo is a collection of my C# console activities for **Pre-Midterm**, **Midterm**, and **Pre-Final**.
+This repo is a collection of my C# console activities for **Pre-Midterm**, **Midterm**, **Pre-Final**, and **Finals**.
 
 ## Clone This Repo (Start Here)
 
