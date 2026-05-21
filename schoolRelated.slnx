@@ -7,7 +7,11 @@
   <Folder Name="/preMid/">
     <Project Path="preMid/pmExam/pmExam.csproj" />
     <Project Path="preMid/quiz1/quiz1.csproj" />
-    <Project Path="preMid/quiz2/quiz2.csproj" />
+  </Folder>
+  <Folder Name="/Finals/Lessons/" />
+  <Folder Name="/Finals/Lessons/Abstraction/" />
+  <Folder Name="/Finals/Lessons/Polymorphism/">
+    <Project Path="Finals/Lessons/Polymorphism/folderThree/folderThree.csproj" />
   </Folder>
 
   <Folder Name="/midTerm/">
@@ -40,10 +44,18 @@
       <Folder Name="/Finals/Lessons/Abstraction/">
         <Project Path="Finals/Lessons/Abstraction/folderOne/folderOne.csproj" />
         <Project Path="Finals/Lessons/Abstraction/folderTwo/folderTwo.csproj" />
+        <Project Path="Finals/Lessons/Abstraction/folderThree/folderThree.csproj" />
+        <Project Path="Finals/Lessons/Abstraction/folderFour/folderFour.csproj" />
+        <Project Path="Finals/Lessons/Abstraction/folderFive/folderFive.csproj" />
+        <Project Path="Finals/Lessons/Abstraction/folderSix/folderSix.csproj" />
       </Folder>
       <Folder Name="/Finals/Lessons/Polymorphism/">
         <Project Path="Finals/Lessons/Polymorphism/folderOne/folderOne.csproj" />
         <Project Path="Finals/Lessons/Polymorphism/folderTwo/folderTwo.csproj" />
+        <Project Path="Finals/Lessons/Polymorphism/folderThree/folderThree.csproj" />
+        <Project Path="Finals/Lessons/Polymorphism/folderFour/folderFour.csproj" />
+        <Project Path="Finals/Lessons/Polymorphism/folderFive/folderFive.csproj" />
+        <Project Path="Finals/Lessons/Polymorphism/folderSix/folderSix.csproj" />
       </Folder>
     </Folder>
   </Folder>
