@@ -8,12 +8,6 @@
     <Project Path="preMid/pmExam/pmExam.csproj" />
     <Project Path="preMid/quiz1/quiz1.csproj" />
   </Folder>
-  <Folder Name="/Finals/Lessons/" />
-  <Folder Name="/Finals/Lessons/Abstraction/" />
-  <Folder Name="/Finals/Lessons/Polymorphism/">
-    <Project Path="Finals/Lessons/Polymorphism/folderThree/folderThree.csproj" />
-  </Folder>
-
   <Folder Name="/midTerm/">
     <Project Path="midTerm/mtExam/mtExam.csproj" />
     <Project Path="midTerm/mylesson1/mylesson1.csproj" />
