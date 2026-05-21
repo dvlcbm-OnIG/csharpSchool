@@ -1,20 +1,17 @@
-//exam prefinal
 using System;
-
 //1
 public class SecuritySystem
 {
     private string _status;
     public string PowerStatus
     {
-        get { return _status; }
+        get { return _status;  }
         set
         {
             if (value == "On")
             {
                 _status = value;
-            }
-            else
+            } else
             {
                 _status = "Off";
             }
@@ -22,24 +19,22 @@ public class SecuritySystem
     }
     public void ShowStatus()
     {
-        Console.WriteLine("System Status: " + _status);
+        Console.WriteLine($"1. Status: {PowerStatus}");
     }
 }
-
 //2
 public class Store
 {
     private int _discount;
     public int Discount
     {
-        get { return _discount; }
+        get { return _discount;  }
         set
         {
             if (value > 50)
             {
                 _discount = 50;
-            }
-            else
+            }else
             {
                 _discount = value;
             }
@@ -47,10 +42,9 @@ public class Store
     }
     public void ShowDiscount()
     {
-        Console.WriteLine("Discount: " + _discount);
+        Console.WriteLine($"2. Discount: {Discount}");
     }
 }
-
 //3
 public class Gym
 {
@@ -63,12 +57,10 @@ public class Gym
             if (value > 3)
             {
                 _level = 3;
-            }
-            else if (value < 1)
+            }else if (value < 1)
             {
                 _level = 1;
-            }
-            else
+            }else
             {
                 _level = value;
             }
@@ -76,10 +68,9 @@ public class Gym
     }
     public void ShowLevel()
     {
-        Console.WriteLine("Membership Level: " + _level);
+        Console.WriteLine($"3. Level: {Level}");
     }
 }
-
 //4
 public class Tracker
 {
@@ -88,7 +79,6 @@ public class Tracker
     {
         Steps = steps;
     }
-
     public int Steps
     {
         get { return _steps; }
@@ -100,13 +90,11 @@ public class Tracker
             }
         }
     }
-
     public void ShowSteps()
     {
-        Console.WriteLine("Steps: " + _steps);
+        Console.WriteLine($"4. Steps: {Steps}");
     }
 }
-
 //5
 public class Safe
 {
@@ -115,58 +103,38 @@ public class Safe
     {
         Pin = pin;
     }
-
     public int Pin
     {
-        get { return _pin; }
-        set
-        {
-            if (value == 1234)
-            {
-                _pin = value;
-            }
-        }
+        get { return _pin;  }
+        set { _pin = value; }
     }
-
     public void ShowPin()
     {
-        Console.WriteLine("PIN: " + _pin);
+        Console.WriteLine($"5. Pin: {Pin}");
     }
 }
-
 public class Program
 {
     public static void Main()
     {
-        //1
-        SecuritySystem sec = new SecuritySystem();
-        sec.PowerStatus = "On";
-        sec.ShowStatus();
-        sec.PowerStatus = "Open";
-        sec.ShowStatus();
-
-        //2
-        Store st = new Store();
-        st.Discount = 70;
-        st.ShowDiscount();
-
-        //3
+        SecuritySystem secSy = new SecuritySystem();
+        Store store = new Store();
         Gym gym = new Gym();
-        gym.Level = 5;
-        gym.ShowLevel();
-        gym.Level = 0;
-        gym.ShowLevel();
+        Tracker track = new Tracker(10);
+        Safe safe = new Safe(10);
 
-        //4
-        Tracker tr = new Tracker(100);
-        tr.Steps = 120;
-        tr.ShowSteps();
-        tr.Steps = 90;
-        tr.ShowSteps();
 
-        //5
-        Safe sf = new Safe(1234);
-        sf.ShowPin();
+        secSy.PowerStatus = "On";
+        store.Discount = 51;
+        gym.Level = 4;
+       
+
+
+        secSy.ShowStatus();
+        store.ShowDiscount();
+        gym.ShowLevel();
+        track.ShowSteps();
+        safe.ShowPin();
 
         Console.ReadKey();
     }

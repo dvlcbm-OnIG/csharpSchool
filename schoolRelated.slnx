@@ -18,12 +18,8 @@
   </Folder>
 
   <Folder Name="/preFinal/">
+    <Project Path="preFinal/Exam/Exam.csproj" />
     <Folder Name="/preFinal/Lessons/">
-
-      <Folder Name="/preFinal/Lessons/Abstraction/">
-        <Project Path="preFinal/Lessons/Abstraction/folderOne/folderOne.csproj" />
-        <Project Path="preFinal/Lessons/Abstraction/folderTwo/folderTwo.csproj" />
-      </Folder>
 
       <Folder Name="/preFinal/Lessons/Encapsulation/">
         <Project Path="preFinal/Lessons/Encapsulation/folderOne/folderOne.csproj" />
@@ -34,13 +30,22 @@
         <Project Path="preFinal/Lessons/Encapsulation/folderEight/folderEight.csproj" />
       </Folder>
 
-      <Folder Name="/preFinal/Lessons/Polymorphism/">
-        <Project Path="preFinal/Lessons/Polymorphism/folderOne/folderOne.csproj" />
-        <Project Path="preFinal/Lessons/Polymorphism/folderTwo/folderTwo.csproj" />
-      </Folder>
-
     </Folder>
 
+  </Folder>
+
+  <Folder Name="/Finals/">
+    <Project Path="Finals/fExam/fExam.csproj" />
+    <Folder Name="/Finals/Lessons/">
+      <Folder Name="/Finals/Lessons/Abstraction/">
+        <Project Path="Finals/Lessons/Abstraction/folderOne/folderOne.csproj" />
+        <Project Path="Finals/Lessons/Abstraction/folderTwo/folderTwo.csproj" />
+      </Folder>
+      <Folder Name="/Finals/Lessons/Polymorphism/">
+        <Project Path="Finals/Lessons/Polymorphism/folderOne/folderOne.csproj" />
+        <Project Path="Finals/Lessons/Polymorphism/folderTwo/folderTwo.csproj" />
+      </Folder>
+    </Folder>
   </Folder>
 
 </Solution>

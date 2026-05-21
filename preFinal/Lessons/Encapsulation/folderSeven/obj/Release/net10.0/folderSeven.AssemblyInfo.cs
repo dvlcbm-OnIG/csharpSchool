@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("folderSeven")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b91ad7b2a605259478987ce508f0ffe8fe116e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff6f3690ddb30bcc20079269b8345ed79789dfcf")]
 [assembly: System.Reflection.AssemblyProductAttribute("folderSeven")]
 [assembly: System.Reflection.AssemblyTitleAttribute("folderSeven")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("folderEight")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+537ffbdb0f8c9282495216c396f9012f21aed15e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff6f3690ddb30bcc20079269b8345ed79789dfcf")]
 [assembly: System.Reflection.AssemblyProductAttribute("folderEight")]
 [assembly: System.Reflection.AssemblyTitleAttribute("folderEight")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
