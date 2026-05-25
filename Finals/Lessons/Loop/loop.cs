@@ -50,16 +50,20 @@ public class HelloWorld
     
     //6 fav colors
     Console.WriteLine("-----6------");
+    string[] colors = {"Red","Blue","Green"};
+    Console.WriteLine(colors[1]);
+    
+    Console.WriteLine("-----7------");
+    //7 lucky numbers
+    int[] numbers1 = new int[]{7,14,21,28};
+    Console.WriteLine(numbers1.Length);
     
     
     
-    
-    
-    
-    
-    
-    
-    
+     Console.WriteLine("-----8------");
+    int[] scores = new int[]{85,90,75};
+    scores[0] = 95;
+    Console.WriteLine(scores[0]);
     
     
     
