@@ -19,19 +19,50 @@ public class HelloWorld
      
      //2 even numbers jump
      Console.WriteLine("-----2------");
-     for(int j = 2; j<=10; j++){
-         if (j % 2 == 0){
-             Console.Write(j + " ");
+     for(int i = 2; i<=10; i++){
+         if (i % 2 == 0){
+             Console.Write(i + " ");
          }
      }
      Console.WriteLine();
      
      //3 repeat message
      Console.WriteLine("-----3------");
-     Console.WriteLine("Enter a word: ");
+     Console.Write("Enter a word: ");
      string word = Console.ReadLine();
      
-    //4
+     for(int i=1; i<=4; i++){
+         Console.Write(word + " ");
+     }
+     Console.WriteLine();
+     
+    //4 multiplication table of 3
     Console.WriteLine("-----4------");
+    int number1 = 3;
+    for (int i = 1; i<=5; i++){
+        int multi = number1 * i;
+        Console.WriteLine(multi);
+    }
+    //5 total sum
+    Console.WriteLine("-----5------");
+    
+    
+    
+    //6 fav colors
+    Console.WriteLine("-----6------");
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     }
 }
