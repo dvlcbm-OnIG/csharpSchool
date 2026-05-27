@@ -1,13 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\preFinal",
-    "\\preFinal\\Lessons",
-    "\\preFinal\\Lessons\\Encapsulation",
-    "\\preFinal\\Lessons\\Encapsulation\\folderEight",
-    "\\preFinal\\Lessons\\Encapsulation\\folderFour",
-    "\\preFinal\\Lessons\\Encapsulation\\folderSeven"
+    "\\Finals",
+    "\\Finals\\Lessons",
+    "\\Finals\\Lessons\\ForLoops",
+    "\\Finals\\Lessons\\ForLoops\\folderFive",
+    "\\Finals\\Lessons\\ForLoops\\folderOne"
   ],
-  "SelectedNode": "\\preFinal\\Lessons\\Encapsulation\\folderEight\\Program.cs",
+  "SelectedNode": "\\Finals\\Lessons\\ForLoops\\folderFive\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

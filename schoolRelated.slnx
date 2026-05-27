@@ -51,6 +51,20 @@
         <Project Path="Finals/Lessons/Polymorphism/folderFive/folderFive.csproj" />
         <Project Path="Finals/Lessons/Polymorphism/folderSix/folderSix.csproj" />
       </Folder>
+      <Folder Name="/Finals/Lessons/ForLoops/">
+        <Project Path="Finals/Lessons/ForLoops/folderOne/folderOne.csproj" />
+        <Project Path="Finals/Lessons/ForLoops/folderTwo/folderTwo.csproj" />
+        <Project Path="Finals/Lessons/ForLoops/folderThree/folderThree.csproj" />
+        <Project Path="Finals/Lessons/ForLoops/folderFour/folderFour.csproj" />
+        <Project Path="Finals/Lessons/ForLoops/folderFive/folderFive.csproj" />
+      </Folder>
+      <Folder Name="/Finals/Lessons/Array/">
+        <Project Path="Finals/Lessons/Array/folderOne/folderOne.csproj" />
+        <Project Path="Finals/Lessons/Array/folderTwo/folderTwo.csproj" />
+        <Project Path="Finals/Lessons/Array/folderThree/folderThree.csproj" />
+        <Project Path="Finals/Lessons/Array/folderFour/folderFour.csproj" />
+        <Project Path="Finals/Lessons/Array/folderFive/folderFive.csproj" />
+      </Folder>
     </Folder>
   </Folder>
 
