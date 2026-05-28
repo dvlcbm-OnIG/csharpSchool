@@ -23,13 +23,13 @@ public class ForLoops1
             // spaces
             for (int s = 0; s < 6 - row; s++)
             {
-                Console.Write(" ");
+                Console.Write("   ");
             }
 
             // stars
             for (int star = 0; star < (row * 2) + 1; star++)
             {
-                Console.Write("*");
+                Console.Write("*  ");
             }
 
             Console.WriteLine();
@@ -47,14 +47,14 @@ public class ForLoops2
             Console.WriteLine($"Test {i}.");
             if (i == 3)
             {
-                Console.WriteLine("Essay: What is the purpose of Life?");
+                Console.WriteLine("  Essay: What is the purpose of Life?");
             }
             else
             {
                 for (int j = 1; j <= items; j++)
                 {
 
-                    Console.WriteLine($"Question #{j}:");
+                    Console.WriteLine($"  Question #{j}:");
 
                 }
             }
