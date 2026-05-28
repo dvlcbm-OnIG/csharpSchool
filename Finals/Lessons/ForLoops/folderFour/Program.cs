@@ -72,7 +72,7 @@ public class Program
     {
         ForLoops1 fLoop1 = new ForLoops1();
         ForLoops2 fLoop2 = new ForLoops2();
-        //fLoop1.ShowLoops();
+        fLoop1.ShowLoops();
         fLoop2.ShowLoops();
     }
 }
