@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Finals\\Lessons\\ForLoops\\folderFour\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vscode\\C#\\SchoolRelated\\Finals\\Lessons\\ForLoops\\folderFive\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Finals\\Lessons\\ForLoops\\folderFive\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vscode\\C#\\SchoolRelated\\Finals\\Lessons\\ForLoops\\folderOne\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Finals\\Lessons\\ForLoops\\folderOne\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -64,27 +60,14 @@
               "RelativeDocumentMoniker": "Finals\\Lessons\\ForLoops\\folderFour\\Program.cs",
               "ToolTip": "D:\\vscode\\C#\\SchoolRelated\\Finals\\Lessons\\ForLoops\\folderFour\\Program.cs",
               "RelativeToolTip": "Finals\\Lessons\\ForLoops\\folderFour\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T09:24:15.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\vscode\\C#\\SchoolRelated\\Finals\\Lessons\\ForLoops\\folderFive\\Program.cs",
-              "RelativeDocumentMoniker": "Finals\\Lessons\\ForLoops\\folderFive\\Program.cs",
-              "ToolTip": "D:\\vscode\\C#\\SchoolRelated\\Finals\\Lessons\\ForLoops\\folderFive\\Program.cs",
-              "RelativeToolTip": "Finals\\Lessons\\ForLoops\\folderFive\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T09:31:17.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "folderOne.csproj",
               "DocumentMoniker": "D:\\vscode\\C#\\SchoolRelated\\Finals\\Lessons\\ForLoops\\folderOne\\folderOne.csproj",
               "RelativeDocumentMoniker": "Finals\\Lessons\\ForLoops\\folderOne\\folderOne.csproj",
@@ -96,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\vscode\\C#\\SchoolRelated\\Finals\\Lessons\\ForLoops\\folderOne\\Program.cs",
               "RelativeDocumentMoniker": "Finals\\Lessons\\ForLoops\\folderOne\\Program.cs",
@@ -108,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderEight\\Program.cs",
               "RelativeDocumentMoniker": "preFinal\\Lessons\\Encapsulation\\folderEight\\Program.cs",
@@ -120,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\vscode\\C#\\SchoolRelated\\preFinal\\Exam\\Program.cs",
               "RelativeDocumentMoniker": "preFinal\\Exam\\Program.cs",
@@ -132,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderSeven\\Program.cs",
               "RelativeDocumentMoniker": "preFinal\\Lessons\\Encapsulation\\folderSeven\\Program.cs",
@@ -144,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderFour\\Program.cs",
               "RelativeDocumentMoniker": "preFinal\\Lessons\\Encapsulation\\folderFour\\Program.cs",
@@ -156,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderSix\\Program.cs",
               "RelativeDocumentMoniker": "preFinal\\Lessons\\Encapsulation\\folderSix\\Program.cs",
@@ -168,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\vscode\\C#\\SchoolRelated\\preFinal\\Lessons\\Encapsulation\\folderFive\\Program.cs",
               "RelativeDocumentMoniker": "preFinal\\Lessons\\Encapsulation\\folderFive\\Program.cs",

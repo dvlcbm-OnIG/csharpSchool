@@ -74,5 +74,7 @@ public class Program
         ForLoops2 fLoop2 = new ForLoops2();
         fLoop1.ShowLoops();
         fLoop2.ShowLoops();
+
+        Console.ReadKey();
     }
 }
