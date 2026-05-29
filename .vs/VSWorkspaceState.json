@@ -3,11 +3,13 @@
     "",
     "\\Finals",
     "\\Finals\\Lessons",
+    "\\Finals\\Lessons\\ForEach",
+    "\\Finals\\Lessons\\ForEach\\folderTwo",
     "\\Finals\\Lessons\\ForLoops",
     "\\Finals\\Lessons\\ForLoops\\folderFive",
     "\\Finals\\Lessons\\ForLoops\\folderFour",
     "\\Finals\\Lessons\\ForLoops\\folderOne"
   ],
-  "SelectedNode": "\\Finals\\Lessons\\ForLoops\\folderFour\\Program.cs",
+  "SelectedNode": "\\Finals\\Lessons\\ForEach\\folderTwo\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

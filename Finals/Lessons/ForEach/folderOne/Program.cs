@@ -63,6 +63,8 @@ public class HelloWorld
        foreach (char letter in vowels){
            Console.WriteLine(letter);
        };
+
+        Console.ReadKey();
             
     }
 }
