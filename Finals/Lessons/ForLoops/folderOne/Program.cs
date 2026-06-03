@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.Collections.Generic; //this is required for using a List
 
 public class HelloWorld
 {
