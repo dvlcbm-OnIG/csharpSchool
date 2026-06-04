@@ -10,34 +10,34 @@ public class HelloWorld
         Console.WriteLine("==========================");
         //1
         Console.WriteLine("------- 1 -------");
-      for (int i =5; i>=1; i--)
+        for (int i = 5; i >= 1; i--)
         {
             Console.WriteLine(i);
         }
         Console.WriteLine("Liftoff!");
 
 
-      //2
-      Console.WriteLine("------- 2 -------");
-      for (int i = 2; i<=10; i+=2)
+        //2
+        Console.WriteLine("------- 2 -------");
+        for (int i = 2; i <= 10; i += 2)
         {
             Console.Write(i + " ");
         }
 
-       //3
-       Console.WriteLine();
-       Console.WriteLine("------- 3 -------");
-       Console.Write("Enter a word: ");
-       string input = Console.ReadLine();
+        //3
+        Console.WriteLine();
+        Console.WriteLine("------- 3 -------");
+        Console.Write("Enter a word: ");
+        string input = Console.ReadLine();
 
-       for(int i= 1; i<=4; i++)
+        for (int i = 1; i <= 4; i++)
         {
             Console.Write(input + " ");
         }
         //4
         Console.WriteLine();
         Console.WriteLine("------- 4 -------");
-        for (int i = 3; i<=15; i += 3)
+        for (int i = 3; i <= 15; i += 3)
         {
             Console.WriteLine(i);
         }
@@ -45,43 +45,43 @@ public class HelloWorld
         //5
         Console.WriteLine("------- 5 -------");
         int sum = 0;
-        for (int i = 1; i<=5; i++)
+        for (int i = 1; i <= 5; i++)
         {
-            sum +=i;
+            sum += i;
         }
-        Console.WriteLine("The total sum is 15");
+        Console.WriteLine("The total sum is " + sum);
 
         //6
-         Console.WriteLine("------- 6 -------");
-         string[] Colors = {"Red", "Blue", "Green"};
-         Console.WriteLine(Colors[1]);
+        Console.WriteLine("------- 6 -------");
+        string[] Colors = { "Red", "Blue", "Green" };
+        Console.WriteLine(Colors[1]);
 
-         //7
-         Console.WriteLine("------- 7 -------");
-         int[] numbers = {7, 14, 21, 28};
-         Console.WriteLine(numbers.Length);
+        //7
+        Console.WriteLine("------- 7 -------");
+        int[] numbers = { 7, 14, 21, 28 };
+        Console.WriteLine(numbers.Length);
 
-         //8
-         Console.WriteLine("------- 8 -------");
-         int[] scores = {85, 90, 75};
-         scores[0] = 95;
-         Console.WriteLine(scores[0]);
+        //8
+        Console.WriteLine("------- 8 -------");
+        int[] scores = { 85, 90, 75 };
+        scores[0] = 95;
+        Console.WriteLine(scores[0]);
 
-         //9
-         Console.WriteLine("------- 9 -------");
-         string[] namess = {"Alice", "Bob", "Charlie", "David"};
-         Console.WriteLine(namess[3]);
+        //9
+        Console.WriteLine("------- 9 -------");
+        string[] namess = { "Alice", "Bob", "Charlie", "David" };
+        Console.WriteLine(namess[3]);
 
-         //10
-         Console.WriteLine("------- 10 -------");
-         int[] numberss = {10, 20, 30};
-         Console.WriteLine(numberss[0]);
-         Console.WriteLine(numberss[1]);
-         Console.WriteLine(numberss[2]);
+        //10
+        Console.WriteLine("------- 10 -------");
+        int[] numberss = { 10, 20, 30 };
+        Console.WriteLine(numberss[0]);
+        Console.WriteLine(numberss[1]);
+        Console.WriteLine(numberss[2]);
 
-         Console.WriteLine("or using a forloop:");
+        Console.WriteLine("or using a forloop:");
 
-         for (int i=0; i<= numbers.Length; i++)
+        for (int i = 0; i < numberss.Length; i++)
         {
             Console.WriteLine(numberss[i]);
         }
@@ -121,7 +121,7 @@ public class HelloWorld
         Console.WriteLine("------- 3 -------");
         List<bool> isAvailable = new List<bool>()
         {
-          true, false, true, true  
+          true, false, true, true
         };
 
         foreach (bool avail in isAvailable)
@@ -138,9 +138,9 @@ public class HelloWorld
 
         //4
         Console.WriteLine("------- 4 -------");
-        int[] dailyTemps = {28, 30, 25, 22, 31};
-        
-        foreach(int temp in dailyTemps)
+        int[] dailyTemps = { 28, 30, 25, 22, 31 };
+
+        foreach (int temp in dailyTemps)
         {
             Console.WriteLine($"Today's temperature is {temp}*C");
         }
@@ -150,10 +150,10 @@ public class HelloWorld
         Console.WriteLine("------- 5 -------");
         List<char> vowels = new List<char>()
         {
-          'A', 'E', 'I', 'O', 'U'  
+          'A', 'E', 'I', 'O', 'U'
         };
 
-        foreach(char letter in vowels)
+        foreach (char letter in vowels)
         {
             Console.Write(letter + " ");
         }
@@ -185,6 +185,22 @@ hello hello hello hello
 15
 ------- 5 -------
 The total sum is 15
+------- 6 -------
+Blue
+------- 7 -------
+4
+------- 8 -------
+95
+------- 9 -------
+David
+------- 10 -------
+10
+20
+30
+or using a forloop:
+10
+20
+30
 
 ==========================
 ==      Foreach      ==
