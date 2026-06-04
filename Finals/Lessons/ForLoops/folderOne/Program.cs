@@ -51,6 +51,41 @@ public class HelloWorld
         }
         Console.WriteLine("The total sum is 15");
 
+        //6
+         Console.WriteLine("------- 6 -------");
+         string[] Colors = {"Red", "Blue", "Green"};
+         Console.WriteLine(Colors[1]);
+
+         //7
+         Console.WriteLine("------- 7 -------");
+         int[] numbers = {7, 14, 21, 28};
+         Console.WriteLine(numbers.Length);
+
+         //8
+         Console.WriteLine("------- 8 -------");
+         int[] scores = {85, 90, 75};
+         scores[0] = 95;
+         Console.WriteLine(scores[0]);
+
+         //9
+         Console.WriteLine("------- 9 -------");
+         string[] namess = {"Alice", "Bob", "Charlie", "David"};
+         Console.WriteLine(namess[3]);
+
+         //10
+         Console.WriteLine("------- 10 -------");
+         int[] numberss = {10, 20, 30};
+         Console.WriteLine(numberss[0]);
+         Console.WriteLine(numberss[1]);
+         Console.WriteLine(numberss[2]);
+
+         Console.WriteLine("or using a forloop:");
+
+         for (int i=0; i<= numbers.Length; i++)
+        {
+            Console.WriteLine(numberss[i]);
+        }
+
         Console.WriteLine();
         Console.WriteLine("==========================");
         Console.WriteLine("==      Foreach      ==");
@@ -179,3 +214,4 @@ Days recorded: 5
 A E I O U 
 
 */
+//Note:  use Length for array, and Count for list
